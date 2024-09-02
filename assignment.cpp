@@ -2,6 +2,8 @@
 // Assignment 1
 // September 1, 2024
 
+#include "assignment.h"
+
 #include <iostream>
 #include <array>
 #include <fstream>
